@@ -1,0 +1,10 @@
+Pronoun Usage Analysis by Entity:
+Mara: Total Pronouns = 151, Average Pronouns per Sentence = 1.61
+George: Total Pronouns = 97, Average Pronouns per Sentence = 1.14
+Amy: Total Pronouns = 182, Average Pronouns per Sentence = 1.15
+Vincent: Total Pronouns = 221, Average Pronouns per Sentence = 1.42
+Meg: Total Pronouns = 222, Average Pronouns per Sentence = 1.08
+
+Pronoun Usage Analysis by Gender:
+Male Average Pronouns per Sentence: 1.32
+Female Average Pronouns per Sentence: 1.21

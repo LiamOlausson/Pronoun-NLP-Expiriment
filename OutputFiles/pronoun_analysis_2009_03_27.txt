@@ -1,0 +1,9 @@
+Pronoun Usage Analysis by Entity:
+Mara: Total Pronouns = 151, Average Pronouns per Sentence = 1.41
+Shelly: Total Pronouns = 193, Average Pronouns per Sentence = 1.20
+Vincent: Total Pronouns = 189, Average Pronouns per Sentence = 1.08
+Ariel: Total Pronouns = 221, Average Pronouns per Sentence = 1.42
+
+Pronoun Usage Analysis by Gender:
+Male Average Pronouns per Sentence: 1.08
+Female Average Pronouns per Sentence: 1.33
